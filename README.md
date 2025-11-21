@@ -1,7 +1,7 @@
 
   # Create Summish Website
 
-  This is a code bundle for Create Summish Website. The original project is available at https://www.figma.com/design/mEWXexS8RlRENcwtDWIJdo/Create-Summish-Website.
+  This is a website build by Figma Website AI builder
 
   ## Running the code
 
