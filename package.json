@@ -1,6 +1,7 @@
 
   {
       "name": "Create Summish Website",
+    "homepage": "https://vikasrathaur1.github.io/summish/"
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -56,5 +57,8 @@
       "scripts": {
           "dev": "vite",
           "build": "vite build"
+        "predeploy": "npm run build",
+"deploy": "gh-pages -d dist"
+
       }
   }
